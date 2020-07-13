@@ -3,11 +3,11 @@
 猎豹浏览器8.0全系列安装包整理总汇。
 
 ## 猎豹浏览器8.0 (7.09) 
-**【更新日志】**  KSbrowser_p_luntan_2020070902.exe
+**【更新日志】**  [KSbrowser_p_luntan_2020070902.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020070902.exe)
 1. hotFix
 
 ## 猎豹浏览器8.0 (7.08) 
-**【更新日志】**  KSbrowser_p_luntan_2020070801.exe
+**【更新日志】**  [KSbrowser_p_luntan_2020070801.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020070801.exe)
 1. 修复任务栏打开显示多个图标；
 2. 修复IE空白以及部分卡死问题；
 3. 添加老板键；
@@ -20,7 +20,7 @@
 10. 补全其他浏览器书签导入 等
 
 ## 猎豹浏览器8.0 (7.1)
-**【更新日志】** KSbrowser_p_luntan_2020070101.exe
+**【更新日志】** [KSbrowser_p_luntan_2020070101.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020070101.exe)
 1. 新浅色皮肤-清昼灵白；
 2. 新标签页性能优化；
 3. 新标签页搜索问题修复；
@@ -28,7 +28,7 @@
 5. 修改部分崩溃 等
 
 ## 猎豹浏览器8.0 (6.24) 
-**【更新日志】**  KSbrowser_p_luntan_2020062401.exe
+**【更新日志】**  [KSbrowser_p_luntan_2020062401.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020062401.exe)
 1. 增加新标签页魔方设置 
 2. 更新特定网址IE切核库 
 3. 完善特定视频播放支持问题 
@@ -39,7 +39,7 @@
 8. 修复一些疑难崩溃 等 
 
 ## 猎豹浏览器8.0 (6.19)
-**【更新日志】** KSbrowser_p_luntan_2020061901.exe
+**【更新日志】** [KSbrowser_p_luntan_2020061901.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020061901.exe)
 1. 修复收藏网址无图标的问题；
 2. 修复ie地址栏网址不对的问题；
 3. IE窗口最小化退至后台无响应的问题；
@@ -52,7 +52,7 @@
 
 ## 猎豹安全浏览器8.0（6.17）
 
-**【更新日志】** KSbrowser_p_luntan_2020061702.exe
+**【更新日志】** [KSbrowser_p_luntan_2020061702.exe](https://github.com/ideshun/Cheetah-Speed-Browser_8.0/blob/master/KSbrowser_p_luntan_2020061702.exe)
 
 尊敬的各位猎豹浏览器用户：
 经过猎豹8.0项目组的不懈努力，带着新内核、新体验、新界面的8.0终于和大家见面了 \(^o^)/~ 
